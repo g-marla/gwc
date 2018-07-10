@@ -1,0 +1,19 @@
+h1 {
+  color: purple;
+  text-align: center;
+  font-size: 72px;
+}
+
+h2 {
+    text-align: center;
+    font-size: 36px;
+}
+
+p {
+  text-align: center;
+  font-size: 18px;
+}
+
+a {
+  text-align: center;
+}
